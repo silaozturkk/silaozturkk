@@ -2,8 +2,8 @@
 
 ### 👩‍💻 A computer engineering student from Turkey
 
-- 🌱 I’m currently learning **React**, **Next.js** and **TypeScript**
-- 💻 I’m developing projects with **JavaScript**, **TypeScript**, **Java**, and **Tailwind CSS**
+- 🌱 I’m currently learning **Next.js** and **TypeScript**
+- 💻 I’m developing projects with **Java**, **JavaScript**, **TypeScript**, **Java**, **React** and **Tailwind CSS**
 - 📫 How to reach me: silaozturk1@icloud.com
 - 🌐 You can explore my portfolio website: [silaozturk.me](https://silaozturk.me)
 - 📝 Read about my internship experiences and projects [here](https://github.com/silaozturkk)
@@ -35,6 +35,9 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -42,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
