@@ -3,7 +3,7 @@
 ### 👩‍💻 A computer engineering student from Turkey
 
 - 🌱 I’m currently learning **Next.js** and **TypeScript**
-- 💻 I’m developing projects with **Java**, **JavaScript**, **TypeScript**, **Java**, **React** and **Tailwind CSS**
+- 💻 I’m developing projects with **Java**, **JavaScript**, **TypeScript**, **React** and **Tailwind CSS**
 - 📫 How to reach me: silaozturk1@icloud.com
 - 🌐 You can explore my portfolio website: [silaozturk.me](https://silaozturk.me)
 - 📝 Read about my internship experiences and projects [here](https://github.com/silaozturkk)
