@@ -52,8 +52,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=silaozturkk&show_icons=true&theme=default" alt="Sıla Öztürk's GitHub Stats" height="180"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaozturkk&layout=compact&theme=default" alt="Top Languages" height="180"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=silaozturkk&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=silaozturkk&layout=compact" />
+
+
